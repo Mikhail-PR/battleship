@@ -1,0 +1,37 @@
+@import "../../scss/_variables.scss";
+
+.cell {
+  background-color: $btn-color;
+  width: 50px;
+  height: 50px;
+  user-select: none;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cell--allied {
+  background-color: $allied-color;
+}
+
+.cell--hit {
+  background-color: $hit-color;
+}
+
+.cell--dead {
+  background-color: $dead-color;
+}
+
+.cell--preshow {
+  background-color: $preshow-color;
+}
+
+.cell--transparent {
+  background-color: transparent;
+}
+
+.cell--incorrect {
+  background-color: $error-color;
+}

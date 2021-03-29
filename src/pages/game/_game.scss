@@ -1,0 +1,27 @@
+.fields-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+
+  & > :not(:last-child) {
+    margin-right: 40px;
+  }
+}
+
+.field-wrapper {
+  display: flex;
+  flex-direction: column;
+
+  z-index: 1;
+}
+
+.player-name,
+.cur-move {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.cur-move {
+  margin-bottom: 50px;
+}

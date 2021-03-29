@@ -1,0 +1,25 @@
+@import "../../scss/_variables.scss";
+
+.stats {
+  width: 650px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: $form-color;
+
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.stats__title {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.stats__table {
+  width: 100%;
+}
+
+.stats__table-title-row {
+  font-size: 20px;
+}

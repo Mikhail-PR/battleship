@@ -1,0 +1,18 @@
+.field {
+  width: 500px;
+  height: 500px;
+
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(10, calc(100% / 10));
+  grid-gap: 2px;
+
+  z-index: 2;
+}
+
+.field--fake {
+  position: absolute;
+  top: 160px;
+
+  z-index: -1;
+}
