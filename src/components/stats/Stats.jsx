@@ -4,7 +4,7 @@ function Stats() {
   const [stats, setStats] = React.useState();
 
   React.useEffect(
-    () => setStats(JSON.parse(localStorage.getItem("stats"))),
+    () => setStats(JSON.parse(localStorage.getItem("battleshipStats"))),
     []
   );
 

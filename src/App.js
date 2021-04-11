@@ -11,7 +11,7 @@ function App() {
   React.useEffect(() => playersNames && saveStats(), [playersNames]);
 
   const saveStats = () => {
-    let stats = JSON.parse(localStorage.getItem('stats'));
+    let stats = JSON.parse(localStorage.getItem('battleshipStats'));
 
     if (!stats) stats = [];
 
@@ -33,7 +33,7 @@ function App() {
 
     statsSort(stats);
     stats = JSON.stringify(stats);
-    localStorage.setItem('stats', stats);
+    localStorage.setItem('battleshipStats', stats);
   }
 
   const statsSort = (stats) => stats.sort((a, b) => b.winCount - a.winCount);
