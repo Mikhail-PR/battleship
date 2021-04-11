@@ -43,7 +43,7 @@ function App() {
   return (
     <>
       <Header />
-      <Route path="/" render={() => <Home setGameProps={setGameProps} />} exact />
+      <Route path={process.env.PUBLIC_URL + "/"} render={() => <Home setGameProps={setGameProps} />} exact />
       <Route path="/game" render={() => <Game
         gameProps={gameProps}
         sendPlayersNames={setPlayersNames}

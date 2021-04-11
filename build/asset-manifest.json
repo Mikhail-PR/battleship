@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/battleship/static/css/main.4e2bf535.chunk.css",
-    "main.js": "/battleship/static/js/main.7a3e2d81.chunk.js",
-    "main.js.map": "/battleship/static/js/main.7a3e2d81.chunk.js.map",
-    "runtime-main.js": "/battleship/static/js/runtime-main.97f1cf50.js",
-    "runtime-main.js.map": "/battleship/static/js/runtime-main.97f1cf50.js.map",
-    "static/js/2.e1c014ea.chunk.js": "/battleship/static/js/2.e1c014ea.chunk.js",
-    "static/js/2.e1c014ea.chunk.js.map": "/battleship/static/js/2.e1c014ea.chunk.js.map",
-    "index.html": "/battleship/index.html",
-    "static/css/main.4e2bf535.chunk.css.map": "/battleship/static/css/main.4e2bf535.chunk.css.map",
-    "static/js/2.e1c014ea.chunk.js.LICENSE.txt": "/battleship/static/js/2.e1c014ea.chunk.js.LICENSE.txt",
-    "static/media/styles.scss": "/battleship/static/media/Muller-Regular.7c0a0b94.ttf"
+    "main.css": "/static/css/main.eb6121d7.chunk.css",
+    "main.js": "/static/js/main.09ec3846.chunk.js",
+    "main.js.map": "/static/js/main.09ec3846.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc5733ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc5733ca.js.map",
+    "static/js/2.e1c014ea.chunk.js": "/static/js/2.e1c014ea.chunk.js",
+    "static/js/2.e1c014ea.chunk.js.map": "/static/js/2.e1c014ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.eb6121d7.chunk.css.map": "/static/css/main.eb6121d7.chunk.css.map",
+    "static/js/2.e1c014ea.chunk.js.LICENSE.txt": "/static/js/2.e1c014ea.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/static/media/Muller-Regular.7c0a0b94.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.97f1cf50.js",
+    "static/js/runtime-main.dc5733ca.js",
     "static/js/2.e1c014ea.chunk.js",
-    "static/css/main.4e2bf535.chunk.css",
-    "static/js/main.7a3e2d81.chunk.js"
+    "static/css/main.eb6121d7.chunk.css",
+    "static/js/main.09ec3846.chunk.js"
   ]
 }
