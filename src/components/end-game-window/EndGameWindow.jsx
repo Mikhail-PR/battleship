@@ -8,7 +8,7 @@ function EndGameWindow({ winnerName, removePlayersNames }) {
         Игрок {winnerName} одержал победу!
       </h2>
       <div className="end-game-window__btn-wrapper">
-        <Link to="/">
+        <Link to={process.env.PUBLIC_URL + "/"}>
           <button
             className="end-game-window__btn"
             onClick={() => removePlayersNames()}
