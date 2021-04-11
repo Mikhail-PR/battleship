@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/battleship/static/css/main.4e2bf535.chunk.css",
-    "main.js": "/battleship/static/js/main.99ace37d.chunk.js",
-    "main.js.map": "/battleship/static/js/main.99ace37d.chunk.js.map",
+    "main.js": "/battleship/static/js/main.ac19d3e0.chunk.js",
+    "main.js.map": "/battleship/static/js/main.ac19d3e0.chunk.js.map",
     "runtime-main.js": "/battleship/static/js/runtime-main.97f1cf50.js",
     "runtime-main.js.map": "/battleship/static/js/runtime-main.97f1cf50.js.map",
     "static/js/2.e1c014ea.chunk.js": "/battleship/static/js/2.e1c014ea.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.97f1cf50.js",
     "static/js/2.e1c014ea.chunk.js",
     "static/css/main.4e2bf535.chunk.css",
-    "static/js/main.99ace37d.chunk.js"
+    "static/js/main.ac19d3e0.chunk.js"
   ]
 }
